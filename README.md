@@ -1,4 +1,4 @@
 ### Zephiros
 ## Trabajo de investigación zephiros
-# Octavio Pino¿
+# Octavio Pino
 # 7° 2da
